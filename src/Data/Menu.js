@@ -10,5 +10,9 @@ export const Menu = [
   {
     name: 'Socials',
     url: '#social'
+  },
+  {
+    name: 'Articles',
+    url: 'https://swifteur.com'
   }
 ];

@@ -6,8 +6,8 @@ const Projects = ({props}) => {
   return(
     <div className="container pt-5" id="projects">
       <div className="row text-start pb-4">
-        <h1 className="text-white display-5"><span className="text-accent fw-bold text-uppercase">#projets récent;</span></h1>
-        <p className="subtitle display-6">Récapitulatif de quelques uns de mes travaux, et des technologie que jai utiliser.</p>
+        <h1 className="text-white"><span className="text-accent fw-bold text-uppercase">#projets récent;</span></h1>
+        <h2 className="subtitle">Quelques uns de mes travaux, et des technologie que jai utiliser.</h2>
       </div>
       <div className="row list-inline">
         {

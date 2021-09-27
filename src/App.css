@@ -23,7 +23,7 @@
 }
 
 .project-img {
-    width: 300px;
+    width: 250px;
 }
 
 .project-detail {
@@ -38,6 +38,7 @@
 
 .profile-img {
     height: 500px;
+    width: auto;
     margin-left: -3em;
 }
 
