@@ -9,6 +9,6 @@ export const Presentation = {
     alt: 'Photo de profile'
   },
   detail: 'Originaire de Tahiti, je suis passionné par les nouvelles technologies. Autodidacte et autonome,' +
-    ' je me suis rapidement tourner vers le développement web et ainsi ' +
-    'continuer seul ma formation.'
+    ' je me suis rapidement tourné vers le développement web et ainsi ' +
+    'continué seul ma formation.'
 };

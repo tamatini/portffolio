@@ -2,7 +2,7 @@ export const Projects = [
   {
     title: '#Dev&Design',
     subtitle: 'Wordpress',
-    detail: 'Site vitrine réaliser sous wordpress pour la société Dev&Design héberger sur serveur apache.',
+    detail: 'Site vitrine réaliser sous Wordpress pour la société Dev&Design héberger sur serveur apache.',
     image: './img/projects/devndesign.png',
     url: 'https://dev-and-design.com',
     gh: ''
@@ -10,7 +10,7 @@ export const Projects = [
   {
     title: '#Big Mama\'s Pizza',
     subtitle: 'ReactJs, Firestore, Heroku',
-    detail: 'Site vitrine listant les plats vendus par le restaurant Big Mama\'s Tahiti. Développer sous ReactJS en NoSQL grâce à firestore,' +
+    detail: 'Site vitrine listant les plats vendus par le restaurant Big Mama\'s Tahiti. Développé sous ReactJS en NoSQL grâce à firestore,' +
       ' application en déploiement continue sur Heroku',
     image: './img/projects/bigmama.png',
     url: 'https://bigmamastahiti.com',
