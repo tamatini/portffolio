@@ -1,10 +1,18 @@
 export const Projects = [
   {
-    title: '#Dev&Design',
-    subtitle: 'Wordpress',
-    detail: 'Site vitrine réaliser sous Wordpress pour la société Dev&Design héberger sur serveur apache.',
+    title: '#Code Dojo',
+    subtitle: 'Wordpress, PHP, Html, CSS',
+    detail: 'Thème customiser utilisant PHP, html, CSS pour le site internet de Code Dojo Tahiti.',
     image: './img/projects/devndesign.png',
-    url: 'https://dev-and-design.com',
+    url: 'https://codedojo-tahiti.com',
+    gh: ''
+  },
+  {
+    title: "#InGame Tahiti",
+    subtitle: "Wordpress",
+    detail: "Design et agencement du site vitrine de l'entreprise InGame Tahiti. Réaliser avec elementor.",
+    image: '',
+    url: "https://ingame-tahiti.com",
     gh: ''
   },
   {

@@ -12,7 +12,7 @@ const Landing = ({props}) => {
                 <span className="text-accent text-uppercase fw-bolder display-2">Salut</span>
                 <span className="text-accent fw-bolder display-2">&lt;/b&gt;</span>
                 <br />
-                <span className="subtitle display-1">Je suis {props.firstname}</span>,
+                <span className="subtitle display-1">Je m'appel {props.firstname}</span>,
               </h1>
               <h1 className="text-white fw-bolder display-5" data-aos="fade-down" data-aos-easing="linear" data-aos-duration="500" data-aos-delay="150">
                 {props.job}
